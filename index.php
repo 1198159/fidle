@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Factory idle</title>
+    <title>Factory idle 2.1</title>
 
     <meta charset="utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
